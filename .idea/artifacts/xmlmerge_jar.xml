@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="xmlmerge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xmlmerge_jar</output-path>
+    <root id="archive" name="xmlmerge.jar">
+      <element id="module-output" name="xmlmerge" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/atteo/xml-combiner/2.2/xml-combiner-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
